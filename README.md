@@ -1,2 +1,2 @@
 # Meu primeiro repositorio GitHub
-repositório do curso de JavaScript
+repositório do curso de JavaScript.
